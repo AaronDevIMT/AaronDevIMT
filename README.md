@@ -20,19 +20,6 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-1.27-ff4b4b?logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-8-blue?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Control-lightgrey?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu&logoColor=white"/>
-</p>
-
----
-
 ## 📌 Proyectos Destacados
 
 ### 🔹 [Registro de Afiliados – Streamlit App](https://github.com/AaronDevIMT/Registro-afiliados-streamlit)
@@ -44,7 +31,23 @@
     <img src="assets/preview.gif" alt="Registro de Afiliados Demo" width="600"/>
   </a>
 </p>
+### 🔹 [Generador de Recibos Boxqui](https://github.com/AaronDevIMT/Recibos_Boxqui)
+<p>
+  Aplicación de escritorio desarrollada en **Python + Tkinter** para la automatización de recibos de cobro.
+  Permite la generación masiva o individual de recibos, con exportación automática de listas de cobro en Excel.
+</p>
+---
 
+## 🛠️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-1.27-ff4b4b?logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-8-blue?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Control-lightgrey?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu&logoColor=white"/>
+</p>
 ---
 
 ## 📊 Estadísticas de GitHub
