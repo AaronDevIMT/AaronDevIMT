@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/preview.gif" alt="Banner de Aarón Águilar May" width="800"/>
+  <img src="assets/banner.jpg" alt="Banner de Aarón Águilar May" width="800"/>
 </p>
 
 <!-- Título y presentación -->
