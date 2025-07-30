@@ -31,6 +31,7 @@
     <img src="assets/preview.gif" alt="Registro de Afiliados Demo" width="600"/>
   </a>
 </p>
+
 ### 🔹 [Generador de Recibos Boxqui](https://github.com/AaronDevIMT/Recibos_Boxqui)
 <p>
   Aplicación de escritorio desarrollada en **Python + Tkinter** para la automatización de recibos de cobro.
